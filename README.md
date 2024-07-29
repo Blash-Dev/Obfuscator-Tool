@@ -43,7 +43,7 @@ Ou
 ```
 1 - Ouvrir un terminal.
 2 - Copie « git clone https://github.com/Blash-Dev/Obfuscator-Tool.git »
-3 - Copie "cd Obfuscator-Tool-main"
+3 - Copie "cd Obfuscator-Tool"
 4 - Copie "python Obfuscator.py"
 ```
 </p>
