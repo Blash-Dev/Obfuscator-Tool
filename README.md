@@ -42,9 +42,9 @@
 Ou
 ```
 1 - Ouvrir un terminal.
-2 - Copie « https://github.com/Blash-Dev/Obfuscator-Tool.git »
-3 - Copie "cd Osint-Navigator-Tool"
-4 - Copie "python OsintNavigator.py"
+2 - Copie « git clone https://github.com/Blash-Dev/Obfuscator-Tool.git »
+3 - Copie "cd Obfuscator-Tool-main"
+4 - Copie "python Obfuscator.py"
 ```
 </p>
 
