@@ -4,7 +4,7 @@
 
 - [x] Cliquez sur ⭐ en haut à droite pour mettre en vedette ce dépôt
 
-**Obfuscator Tool**: C'est un Tool qui permet de crypté/obfusquer votre source cod pour que li ne soit pas lisible marche que sur python
+**Obfuscator Tool**: C'est un Tool qui permet de crypté/obfusquer votre source cod pour que li ne soit pas lisible et pour rendre votre .py pas détecter par virustotal marche que sur python
 
 ![OsintNavigatorTool](https://media.discordapp.net/attachments/1263924985626497024/1267270777179476071/image.png?ex=66a82d62&is=66a6dbe2&hm=8e2039824993e2232aaeed85cbb0310eeda20479640c75fbbbf4ad665f37b321&=&format=webp&quality=lossless)
 
